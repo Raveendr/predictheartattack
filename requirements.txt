@@ -9,7 +9,6 @@ colorama==0.4.4
 decorator==4.4.2
 defusedxml==0.6.0
 entrypoints==0.3
-gunicorn
 ipykernel==5.4.3
 ipython==7.19.0
 ipython-genutils==0.2.0
@@ -55,3 +54,4 @@ wcwidth==0.2.5
 webencodings==0.5.1
 widgetsnbextension==3.5.1
 wincertstore==0.2
+gunicorn
